@@ -1,5 +1,5 @@
 
-[![Build Status](https://dev.azure.com/chandaniel/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/chanbull.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/chandaniel/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=5&branchName=build-pipeline)
+[![Build Status](https://dev.azure.com/chandaniel/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/chandaniel/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=6&branchName=main)
 
 
 # Contributing
